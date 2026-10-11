@@ -1,0 +1,6 @@
+{
+  "name": "Atelier - Graphic Design & UI/UX Studio OS",
+  "description": "An offline-first university-grade graphic design and UI/UX bachelor learning operating system with academic work criteria, graphical interactive specimens, trial iteration tracking, client relations coaching, and local data synchronization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
